@@ -31,7 +31,6 @@ The script should reside in the bin folder of OpenSim server
 
 TODO
 -----
-1)needs improvement 
-2)
+1)needs improvement
 
 Enjoy!
